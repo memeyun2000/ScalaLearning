@@ -7,7 +7,7 @@ package main.scala.study.chapter2
 object Action10 {
 
   /**
-    * 显示声明 无返回的函数
+    * 显式声明 无返回的函数
     * @param x
     */
   def fac1(x:Int): Unit = {
